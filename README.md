@@ -14,11 +14,21 @@ I enjoy learning how systems work, how to secure them, and how to build useful a
 ---
 
 ## 🛠️ Tech Stack
-- HTML, CSS, JavaScript
-- Python
-- Git & GitHub
-- Microsoft Office (Excel, Word, PowerPoint)
-- Basic Cybersecurity Concepts
+
+### 💻 Programming & Web
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
+
+### 🔧 Tools
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+### 📊 Productivity
+![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Word](https://img.shields.io/badge/Word-blue?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
 ---
 
