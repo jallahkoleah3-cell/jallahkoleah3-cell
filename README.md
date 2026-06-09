@@ -2,9 +2,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;Web+Developer;Electrical+Engineering+Student;Future+Security+Engineer)](https://git.io/typing-svg)
 # 👋 Hi, I'm Jallah Koleah
 
-## 💻 About Me
-I am a passionate and motivated student currently building skills in **Cybersecurity, Web Development, and Electrical Engineering**.  
-I enjoy learning how systems work, how to secure them, and how to build useful applications.
+## 🧠 About Me
+
+I am passionate about cybersecurity and how systems are protected from real-world threats.  
+I enjoy understanding how attackers think so I can build stronger, safer systems.
+
+My goal is to become a skilled cybersecurity professional and contribute to securing digital systems globally.
 
 ---
 
@@ -64,6 +67,40 @@ I enjoy learning how systems work, how to secure them, and how to build useful a
 ## 🔥 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jallahkoleah3-cell&layout=compact&theme=tokyonight)
+
+---
+
+## 🚀 Featured Projects
+
+### 🌐 Personal Portfolio Website
+A responsive personal website built with HTML and CSS to showcase my skills, education, and experience.
+
+🔗 Repo: https://github.com/jallahkoleah3-cell/jallah-portfolio
+
+---
+
+### 💻 Web Development Practice Projects
+Small projects built while learning JavaScript, HTML, and CSS to strengthen frontend development skills.
+
+🔗 GitHub: https://github.com/jallahkoleah3-cell
+
+---
+
+### 💰 Smart Budget Tracker
+
+📊 A responsive web application designed to help users manage their finances effectively by tracking income, expenses, and savings goals.
+
+#### 🔧 Features:
+- Add income and expenses
+- Automatic balance calculation
+- Local storage (data saved in browser)
+- Clean and responsive UI
+
+#### 🛠️ Tech Stack:
+HTML | CSS | JavaScript
+
+🔗 Live Demo:  https://jallahkoleah3-cell.github.io/Smart-Budget-Tracker/  
+🔗 Source Code: https://github.com/jallahkoleah3-cell/smart-budget-tracker
 
 > “Learning never stops. Every line of code is a step forward.”
 <!--
