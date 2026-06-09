@@ -1,3 +1,5 @@
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Jallah%20Koleah&fontSize=40&fontColor=ffffff)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;Web+Developer;Electrical+Engineering+Student;Future+Security+Engineer)](https://git.io/typing-svg)
 # 👋 Hi, I'm Jallah Koleah
 
 ## 💻 About Me
@@ -54,6 +56,14 @@ I enjoy learning how systems work, how to secure them, and how to build useful a
 - 💻 GitHub: https://github.com/jallahkoleah3-cell  
 
 ---
+
+## 📊 GitHub Stats
+
+![Jallah's GitHub stats](https://github-readme-stats.vercel.app/api?username=jallahkoleah3-cell&show_icons=true&theme=tokyonight)
+
+## 🔥 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jallahkoleah3-cell&layout=compact&theme=tokyonight)
 
 > “Learning never stops. Every line of code is a step forward.”
 <!--
